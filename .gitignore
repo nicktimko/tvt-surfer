@@ -1,0 +1,14 @@
+# Python Cruft
+__pycache__
+*.py[cod]
+.python-version
+
+# OS Cruft
+._*
+.DS_Store
+Thumbs.db
+
+# debugging dumps
+*.html
+*.json
+*.log
